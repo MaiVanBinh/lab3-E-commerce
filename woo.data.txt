@@ -1,0 +1,156 @@
+"ID"@"Type"@"SKU"@"Name"@"Published"@"Is featured?"@"Visibility in catalog"@"Short description"@"Description"@"Date sale price starts"@"Date sale price ends"@"Tax status"@"Tax class"@"In stock?"@"Stock"@"Low stock amount"@"Backorders allowed?"@"Sold individually?"@"Weight(kg)"@"Length(cm)"@"Width(cm)"@"Height(cm)"@"Allow customer reviews?"@"Purchase note"@"Sale price"@"Regular price"@"Categories"@"Tags"@"Shipping class"@"Images"@"Download limit"@"Download expiry days"@"Parent"@"Grouped products"@"Upsells"@"Cross-sells"@"External URL"@"Button text"@"Position"
+""@"simple"@"5283830197727"@"Đồng hồ nam ECONOMICXI dây thép mành đen chạy lịch ngày thiết kế cá tính ECO0129"@"1"@"0"@"visible"@""@"Với sản phẩm đồng hồ nam thời trang ECONOMICXI (Đen) Nam tính , các chàng trai hoàn toàn có thể hô biến nó thành món phụ kiện nổi bật cho phong cách thời trang riêng của mình và kết hợp với nhiều..."@""@""@"taxable"@""@"1"@""@""@"0"@"0"@""@""@""@""@"1"@""@"1350000"@"150000"@"ECONOMICXI"@""@""@"https://salt.tikicdn.com/cache/280x280/ts/product/98/ee/91/d751eab144b873d5171c19e52ce52572.jpg"@""@""@""@""@""@""@""@""@"0"
+""@"simple"@"3762589454157"@"Đồng Hồ Nam OLEVS OL6602 Dây Da Siêu Nhẹ, Siêu Bền, Mặt Đồng Hồ Đính Kim Cương Nhân Tạo Làm Toát Lên Sự Đẳng Cấp , Sang Trọng , Mặt Kính Chống Trầy Xước , Chống Nước 3atm , Kiểu Dáng Năng Động, Phong Cách Lịch Lãm"@"1"@"0"@"visible"@""@"THIẾT KẾ ĐẾN TỪ Ý Vỏ ngoài của chiếc đồng hồ được gia công bằng chất liệu hợp kim thép chống gỉ tạo nên vẻ sang trọng, lịch lãm cho các quý ông tuổi trung niên
+VẬN HÀNH BỀN BỈ Từ năm 2012 đến nay nhà..."@""@""@"taxable"@""@"1"@""@""@"0"@"0"@""@""@""@""@"1"@""@"901000"@"199000"@"OLEVS"@""@""@"https://salt.tikicdn.com/cache/280x280/ts/product/24/5f/37/16c2ceff443083bd1e8d72e7991c8e1d.jpg"@""@""@""@""@""@""@""@""@"0"
+""@"simple"@"5109141988920"@"Đồng hồ nam PAGINI PA5588 dây thép kim dạ quang cao cấp chống nước 3ATM"@"1"@"0"@"visible"@""@"
+ĐỒNG HỒ NAM PAGINI làm tôn lên vẻ đẹp cổ điển theo phong cách Ý, mang lại sự cuốn hút mạnh mẽ cho nam giới từ cái nhìn đầu tiên. Đàn ông là phải thế, dù bạn không cao nhưng người khác phải ngước..."@""@""@"taxable"@""@"1"@""@""@"0"@"0"@""@""@""@""@"1"@""@"3062000"@"438000"@"Julius"@""@""@"https://salt.tikicdn.com/cache/280x280/ts/product/9b/44/09/744c50f59ec0058e5ab768595c3da939.png"@""@""@""@""@""@""@""@""@"0"
+""@"simple"@"9719597079693"@"Đồng hồ nam day thép mảnh ECONOMICXI cao cấp"@"1"@"0"@"visible"@""@"ECNOMICXI luôn chọn những chất liệu tốt chuẩn để cho ra đời những mẫu đồng hồ chất lượng cao, đồng hồ ECONOMICXI thường có dây đeo từ chất liệu kim loại đẹp, mặt đồng hồ làm từ mặt kính khoáng, có độ..."@""@""@"taxable"@""@"1"@""@""@"0"@"0"@""@""@""@""@"1"@""@"601000"@"199000"@"ECONOMICXI"@""@""@"https://salt.tikicdn.com/cache/280x280/ts/product/5c/da/22/73d8d96d00fca3a4bdf786609f429e94.jpg"@""@""@""@""@""@""@""@""@"0"
+""@"simple"@"8800989428558"@"Đồng hồ dây da dành cho nam phong cách hàn quốc cực đẹp nhiều mẫu mã dễ lựa chọn DH101"@"1"@"0"@"visible"@""@"ĐỒNG HỒ NAM DÂY DA THỜI TRANG PHONG CÁCH HÀN QUỐC CỰC ĐẸP CFHD DH101MÔ TẢ SẢN PHẨMĐồng hồ nam dây da thời trang phong cách Hàn Quốc cực đẹpMàu sắc có 5 màu : DH101 Nâu Mặt Trắng; DH101 Nâu Mặt Đen,..."@""@""@"taxable"@""@"1"@""@""@"0"@"0"@""@""@""@""@"1"@""@"72101"@"26899"@"OEM"@""@""@"https://salt.tikicdn.com/cache/280x280/ts/product/87/36/3a/008bbfe4c1927585bc7671e25a2cf3ef.jpg"@""@""@""@""@""@""@""@""@"0"
+""@"simple"@"5753113396243"@"Đồng Hồ Nam Crnaira Japan CR39 Siêu Mỏng mặt đồng hồ tròn, thiết kế đẹp mắt, sáng bóng với tính năng hiện đại cho phái mạnh tự tin, mạng mẽ và thời trang thiết kế ôm tay với Dây Thép Mành"@"1"@"0"@"visible"@""@"ü  THÔNG TIN SẢN PHẨM
+Ø  Kiểu Máy: Japan Quartz (Máy nhật siêu bền)
+Ø  Kích thước mặt: ~40mm
+Ø  Độ dày mặt:~ 11mm
+Ø  Kích thước dây: dài 220 mm, rộng 20mm
+Ø  Chất liệu dây: Thép không gỉ
+Ø  Khả năng..."@""@""@"taxable"@""@"1"@""@""@"0"@"0"@""@""@""@""@"1"@""@"241000"@"109000"@"CRNAIRA"@""@""@"https://salt.tikicdn.com/cache/280x280/ts/product/57/ea/b3/7c78f3448e104949edba1c0546e2e883.jpg"@""@""@""@""@""@""@""@""@"0"
+""@"simple"@"8226653020703"@"Đồng Hồ Nam Chính Hãng ECONOMICXI Dây Thép Lụa Đen Có Lịch Ngày Mặt Mỏng Cao Cấp - Phong Cách Hàn Quốc ECNT56"@"1"@"0"@"visible"@""@"Đồng hồ nam ECONOMICXI không đơn thuần chỉ là 1 chiếc đồng hồ đó còn là 1 phụ kiện thời trang đẹp và sang trọngVới thiết kế bắt mắt cùng chất liệu vỏ dây cao cấp từ inox và mặt kính cứng tăng cường..."@""@""@"taxable"@""@"1"@""@""@"0"@"0"@""@""@""@""@"1"@""@"3600000"@"400000"@"ECONOMICXI"@""@""@"https://salt.tikicdn.com/cache/280x280/ts/product/2b/b6/fe/20372ca92d06fa5b9700c952700a5b79.jpg"@""@""@""@""@""@""@""@""@"0"
+""@"simple"@"4911704912925"@"Đồng hồ nam OLEVS dây da kim dạ quang OL6898 - Chống nước chống xước cao cấp"@"1"@"0"@"visible"@""@"
+Loại máy: máy Quartz
+Kích thước bề mặt: Đường kính 40 mm
+Độ dày mặt: 10mm
+Độ dày dây đeo: 2mm
+Độ rộng dây đeo: 20mm
+Chất liệu dây: Dây da Cao cấp
+Trọng lượng: 167g
+Chất liệu mặt: Kính chống xước cao..."@""@""@"taxable"@""@"1"@""@""@"0"@"0"@""@""@""@""@"1"@""@"1001000"@"199000"@"OLEVS"@""@""@"https://salt.tikicdn.com/cache/280x280/ts/product/41/6b/93/b2d3bdd8590c423744072fd1f5ebb048.jpg"@""@""@""@""@""@""@""@""@"0"
+""@"simple"@"4843113371232"@"Đồng Hồ Nam Pagini Dây Titanium Mặt Tròn Sang Trọng PA9966, Kính Cao Cấp Chống Trầy Xước Siêu Tốt, Hiển Thị Lịch Ngày, Máy Nhật Siêu Bền - Phong Cách Nam Tính - Lịch Lãm - Đẳng Cấp - Thời Thượng"@"1"@"0"@"visible"@""@"
+Vỏ ngoài của chiếc đồng hồ nam được gia công bằng chất liệu hợp kim thép chống gỉ mạ vàng tạo nên vẻ sang trọng, lịch lãm cho các quý ông.VẬN HÀNH BỀN BỈ Từ năm 2012 đến nay nhà máy lắp ráp đã đầu..."@""@""@"taxable"@""@"1"@""@""@"0"@"0"@""@""@""@""@"1"@""@"1241000"@"259000"@"PAGINI"@""@""@"https://salt.tikicdn.com/cache/280x280/ts/product/dd/66/24/26434f3f64472a4038ea4c8e32a91afb.jpg"@""@""@""@""@""@""@""@""@"0"
+""@"simple"@"7824037203479"@"Đồng hồ báo thức điện tử để bàn màn hình đa chức năng thời gian, lịch, báo thức, nhiệt độ DH89"@"1"@"0"@"visible"@""@"MÔ TẢ SẢN PHẨM
+
+
+Đồng hồ báo thức điện tử thông minh để bàn miniĐồng hồ điện tử để bàn nhiều màu sắc.5 phân loại: DH89 Xanh Dương, DH89 Trắng, DH89 Xanh Lá, DH89 Đen, DH89 Hồng
+
+
+Đa chức năng: Hiển..."@""@""@"taxable"@""@"1"@""@""@"0"@"0"@""@""@""@""@"1"@""@"75301"@"73699"@"OEM"@""@""@"https://salt.tikicdn.com/cache/280x280/ts/product/a2/63/f9/25977caf27276b1c78170b06cc70b4db.jpg"@""@""@""@""@""@""@""@""@"0"
+""@"simple"@"5715221575548"@"Đồng hồ nam PAGINI dây da 6 kim – Kính đổi màu – Thiết kế sang trọng, lịch lãm – PADN2233X"@"1"@"0"@"visible"@""@"
+Đồng hồ nam PAGINI dây da 6 kim – Kính đổi màu – Thiết kế sang trọng, lịch lãm – PADN2233XĐồng hồ nam PAGINI tạo nên phong cách sang trọng, lịch lãmĐồng hồ nam chống nước 3ATMHiển thị lịch ngày tiện..."@""@""@"taxable"@""@"1"@""@""@"0"@"0"@""@""@""@""@"1"@""@"601000"@"399000"@"PAGINI"@""@""@"https://salt.tikicdn.com/cache/280x280/ts/product/2e/59/27/7aa023e29737f30754c9395aef2d5d8e.jpg"@""@""@""@""@""@""@""@""@"0"
+""@"simple"@"2630614549466"@"Đồng Hồ Nam DIZIZID Dây Thép Đen Cá Tính Chạy Full Kim Và Lịch Ngày - Thiết Kế Nam Tính Mạnh Mẽ DZTT069"@"1"@"0"@"visible"@""@"THÔNG TIN CHI TIẾT:
+
+Thương hiệu: DIZIZID
+Mẫu: High Fashion Design
+Dây thép không gỉ
+Đường kính mặt: 40mm
+Chiều dày mặt: 10mm
+Mặt kính: Kính khoáng chống trầy xước
+Màu mặt: đen
+Kích thước dây: dài..."@""@""@"taxable"@""@"1"@""@""@"0"@"0"@""@""@""@""@"1"@""@"5700000"@"800000"@"DIZIZID"@""@""@"https://salt.tikicdn.com/cache/280x280/ts/product/51/cd/00/a0291bfd5469c7315e12da389871f777.jpg"@""@""@""@""@""@""@""@""@"0"
+""@"simple"@"9483647140925"@"Đồng hồ nam Sunrise 1138SA [Full Box] - Kính Sapphire, chống xước, chống nước - Dây da cao cấp"@"1"@"0"@"visible"@""@"Hàng Nhật – Chất lượng Thật!
+ 
+Đồng hồ của chúng tôi sử dụng bộ máy của Nhật, lắp ráp tại Nhật, từng chiếc đều phải vượt qua sự kiểm tra nghiêm khắc của người Nhật.
+Và ngày hôm nay, chúng tôi hân..."@""@""@"taxable"@""@"1"@""@""@"0"@"0"@""@""@""@""@"1"@""@"952000"@"843000"@" Sunrise "@""@""@"https://salt.tikicdn.com/cache/280x280/ts/product/3d/7c/7f/b640989646fff874fae967c5c67ac588.jpg"@""@""@""@""@""@""@""@""@"0"
+""@"simple"@"3795027523928"@"Đồng Hồ Cơ Nam PAGINI Dây Thép Không Gỉ - Lịch Mặt Trăng Mặt Trời - Kính Sapphire Cao Cấp"@"1"@"0"@"visible"@""@"
+THIẾT KẾ ĐẾN TỪ Ý Vỏ ngoài của chiếc đồng hồ PAGINI được gia công bằng chất liệu hợp kim thép chống gỉ tạo nên vẻ sang trọng, lịch lãm cho các quý ông tuổi trung niên
+VẬN HÀNH BỀN BỈ Từ năm 2012 đến..."@""@""@"taxable"@""@"1"@""@""@"0"@"0"@""@""@""@""@"1"@""@"8510000"@"990000"@"PAGINI"@""@""@"https://salt.tikicdn.com/cache/280x280/ts/product/1f/dc/05/3929020baa2a34fee38d1dd0279770e8.png"@""@""@""@""@""@""@""@""@"0"
+""@"simple"@"2082849595990"@"Đồng Hồ Nam FNGEEN FE230  mặt đồng hồ tròn, thiết kế đẹp mắt, sáng bóng với tính năng hiện đại cho phái mạnh tự tin, mạng mẽ và thời trang  Dây thép không gỉ thiết kế ôm tay "@"1"@"0"@"visible"@""@"
+Với sản phẩm đồng hồ nam thời trang FNGEEN (Đen) Nam tính , các chàng trai hoàn toàn có thể hô biến nó thành món phụ kiện nổi bật cho phong cách thời trang riêng của mình và kết hợp với nhiều trang..."@""@""@"taxable"@""@"1"@""@""@"0"@"0"@""@""@""@""@"1"@""@"321000"@"179000"@"FNGEEN"@""@""@"https://salt.tikicdn.com/cache/280x280/ts/product/06/77/ab/fcd762dbc6945a085ea08af62060dac9.jpg"@""@""@""@""@""@""@""@""@"0"
+""@"simple"@"7857432455242"@"Đồng hồ nam PAGINI PA015588G dây da cao cấp – Hiển thị lịch ngày – Mang lại cho bạn sự năng động, trẻ trung"@"1"@"0"@"visible"@""@"
+Đồng hồ nam PAGINI dây da cao cấp – Hiển thị lịch ngày – Mang lại cho bạn sự năng động, trẻ trung
+Kích thước bề mặt: Đường kính 40 mm
+Độ dày mặt: 10mm
+Độ dày dây đeo: 2mm
+Độ rộng dây đeo: 20mm
+Chất..."@""@""@"taxable"@""@"1"@""@""@"0"@"0"@""@""@""@""@"1"@""@"1051000"@"449000"@"PAGINI"@""@""@"https://salt.tikicdn.com/cache/280x280/ts/product/ff/ba/d0/95b6860d9f638a877910724243b110a0.jpg"@""@""@""@""@""@""@""@""@"0"
+""@"simple"@"5302848846882"@"Đồng hồ LED 3D Smart Clock treo tường, để bàn. Đồng hồ kĩ thuật số, Đồng hồ đèn led thông minh RET021"@"1"@"0"@"visible"@""@"
+Sản phẩm vừa có thể để bàn vừa có thể treo tường dễ dàng
+Bộ sản phẩm bao gồm: đồng hồ led 3D kĩ thuật số (Loại 1) + hướng dẫn sử dụng + cáp USB + Tặng Kèm máy đồng hồ kim trôi dùng để thay thế
+Phù..."@""@""@"taxable"@""@"1"@""@""@"0"@"0"@""@""@""@""@"1"@""@"610000"@"190000"@"OEM"@""@""@"https://salt.tikicdn.com/cache/280x280/ts/product/6f/4e/cf/3647ff1c44b1a536a2d32512c400d520.png"@""@""@""@""@""@""@""@""@"0"
+""@"simple"@"1418217446402"@"Đồng Hồ Nam Dây Da Chống Nước PAGINI 19966 Cao Cấp – Bảo Hành 24 Tháng"@"1"@"0"@"visible"@""@"
+Đồng Hồ Nam Dây Da Chống Nước PAGINI 9966 Cao Cấp – Bảo Hành 24 ThángĐồng hồ nam Pagini là 1 trong những mẫu đồng hồ doanh nhân rất được ưa chuộng hiện nayBởi thiết kế sang trọng, lịch lãm với mặt..."@""@""@"taxable"@""@"1"@""@""@"0"@"0"@""@""@""@""@"1"@""@"3701000"@"799000"@"PAGINI"@""@""@"https://salt.tikicdn.com/cache/280x280/ts/product/d9/79/c0/75c1a5677c3a5dedd970d94497b8d137.jpg"@""@""@""@""@""@""@""@""@"0"
+""@"simple"@"1664799098441"@"Đồng Hồ Nam OLEVS-2871 Phong Cách Doanh Nhân - Lịch Trăng Sao - Chạy Đủ 6 Kim - Hàng Chính Hãng"@"1"@"0"@"visible"@""@"Đồng Hồ Nam Phong Cách Doanh Nhân OLEVS-2871 - Hàng Chính Hãng
+Kèm Hộp Da Cao Cấp - Thích Hợp Tặng Người Bạn Quý Mến
+Cam Kết Sản Phẩm Giống Hình và Video 100%
+
+ 
+VIDEO GIỚI THIỆU SẢN..."@""@""@"taxable"@""@"1"@""@""@"0"@"0"@""@""@""@""@"1"@""@"1021000"@"479000"@"OLEVS"@""@""@"https://salt.tikicdn.com/cache/280x280/ts/product/8f/d9/6c/36819220dd0444ea4d366ee0b2d5f9e8.jpg"@""@""@""@""@""@""@""@""@"0"
+""@"simple"@"5908417748788"@"[DEAL KHỦNG] Đồng Hồ Nam OLEVS OL6602 Dây Da Siêu Nhẹ, Siêu Bền, Mặt Đồng Hồ Đính Kim Cương Nhân Tạo Làm Toát Lên Sự Đẳng Cấp , Sang Trọng , Mặt Kính Chống Trầy Xước , Chống Nước 3atm , Kiểu Dáng Năng Động, Phong Cách Lịch Lãm"@"1"@"0"@"visible"@""@"Đồng hồ nam Olevs tạo nên phong cách sang trọng, lịch lãmĐồng hồ nam Olevs được sử dụng công nghệ sản xuất tiên tiến, chất lượng hàng đầuĐồng hồ nam chống nước 3ATMĐồng hồ nam Olevs hiển thị lịch..."@""@""@"taxable"@""@"1"@""@""@"0"@"0"@""@""@""@""@"1"@""@"880000"@"220000"@"OLEVS"@""@""@"https://salt.tikicdn.com/cache/280x280/ts/product/e3/2d/52/7b775ddd2788f3785ae8e356246db53d.jpg"@""@""@""@""@""@""@""@""@"0"
+""@"simple"@"8153370566699"@"ĐỒNG HỒ TREO TƯỜNG TRÒN KIM TRÔI ĐƯỜNG KÍNH 25CM"@"1"@"0"@"visible"@""@"Mô tả chi tiết
+
+Bạn đã từng bị lỡ hẹn với khách hàng, bạn bị rối tung trong khối lượng công việc lớn, bạn chán nản vì không biết sắp sếp thời gian cho công việc. Vậy tại sao bạn lại không sắm cho..."@""@""@"taxable"@""@"1"@""@""@"0"@"0"@""@""@""@""@"1"@""@"30000"@"90000"@"OEM"@""@""@"https://salt.tikicdn.com/cache/280x280/ts/product/59/05/ca/17b25dbeaa6bd2bf397db336bec5f25e.png"@""@""@""@""@""@""@""@""@"0"
+""@"simple"@"4389079340344"@"Đồng hồ nam PAGINI PA5533W dây thép không gỉ - Lịch ngày cao cấp"@"1"@"0"@"visible"@""@"
+Đồng hồ nam PAGINI được sản xuất trên công nghệ tiên tiến, hiện đại nhất hiện nay, mang lại trải nghiệm tuyệt vời cho người dung
+Dây đeo bằng thép cao cấp không gỉ, bạn sẽ thực sự thoải mái khi sử..."@""@""@"taxable"@""@"1"@""@""@"0"@"0"@""@""@""@""@"1"@""@"2050000"@"450000"@"PAGINI"@""@""@"https://salt.tikicdn.com/cache/280x280/ts/product/a8/ba/d0/3c5a63519d5ce9eda9ddcf408f1fa3f9.jpg"@""@""@""@""@""@""@""@""@"0"
+""@"simple"@"4723563510007"@"Đồng Hồ Nam Chính Hãng ECONOMICXI Dây Thép Mành Đen Kích Thước Mặt 40mm Có Lịch Ngày - Thiết Kế Nam Tính ECNTA23"@"1"@"0"@"visible"@""@"Đồng hồ nam ECONOMICXI không đơn thuần chỉ là 1 chiếc đồng hồ đó còn là 1 phụ kiện thời trang đẹp và sang trọngVới thiết kế bắt mắt cùng chất liệu vỏ dây cao cấp từ inox và mặt kính cứng tăng cường..."@""@""@"taxable"@""@"1"@""@""@"0"@"0"@""@""@""@""@"1"@""@"3600000"@"400000"@"ECONOMICXI"@""@""@"https://salt.tikicdn.com/cache/280x280/ts/product/7b/8e/12/551fe6ad5bb14c29ca349568564c8b6f.jpg"@""@""@""@""@""@""@""@""@"0"
+""@"simple"@"2500308895493"@"Đồng hồ nam Sunrise 1138SA-002 [Full Box] - Kính Sapphire, chống xước, chống nước - Dây thép không gỉ"@"1"@"0"@"visible"@""@"Hàng Nhật – Chất lượng Thật!
+ 
+Đồng hồ sử dụng bộ máy của Nhật, lắp ráp tại Nhật, từng chiếc đều phải vượt qua sự kiểm tra nghiêm khắc của người Nhật.
+Và ngày hôm nay, hân hạnh mang chiếc đồng hồ..."@""@""@"taxable"@""@"1"@""@""@"0"@"0"@""@""@""@""@"1"@""@"1108000"@"997000"@" Sunrise "@""@""@"https://salt.tikicdn.com/cache/280x280/ts/product/b7/26/0f/a8579a458093834f1309013ae791467a.jpg"@""@""@""@""@""@""@""@""@"0"
+""@"simple"@"3733180235465"@"Đồng hồ nam PAGINI cao cấp dây da thật mặt tròn – Mặt kính chống xước - PA16688"@"1"@"0"@"visible"@""@"Đồng hồ nam PAGINI cao cấp dây da mặt tròn – Mặt kính chống xước
+Đồng hồ nam PAGINI được sản xuất trên công nghệ tiên tiến, giúp mang lại trải nghiệm tốt nhất cho khách hàng
+Dây da cao cấp giúp tạo..."@""@""@"taxable"@""@"1"@""@""@"0"@"0"@""@""@""@""@"1"@""@"1550000"@"450000"@"PAGINI"@""@""@"https://salt.tikicdn.com/cache/280x280/ts/product/48/29/5f/21e3aac808b284d9eb201fbc5d491bf3.jpg"@""@""@""@""@""@""@""@""@"0"
+""@"simple"@"7627404374624"@"Đồng Hồ Nam Chính Hãng DIZIZID Dây Titanium Chạy Full 6 Kim Có Lịch Ngày Kim Phối Xanh Cao Cấp DITD09"@"1"@"0"@"visible"@""@"THÔNG TIN CHI TIẾT SẢN PHẨM:
+
+Thương hiệu: DIZIZID
+Mẫu: Special Design
+Dây thép không gỉ
+Đường kính mặt: 40mm
+Chiều dày mặt: 10mm
+Mặt kính: Kính khoáng chống trầy xước
+Màu mặt: đen
+Kích thước dây:..."@""@""@"taxable"@""@"1"@""@""@"0"@"0"@""@""@""@""@"1"@""@"5199000"@"800000"@"DIZIZID"@""@""@"https://salt.tikicdn.com/cache/280x280/ts/product/61/1f/7d/2eba52c2061a121daf3eb0b5fc327d9f.jpg"@""@""@""@""@""@""@""@""@"0"
+""@"simple"@"2892540151506"@"Đồng Hồ Nam Fourron F66 Lịch Ngày Dây Thép Cao Cấp_ kim vàng Và Kim Xanh"@"1"@"0"@"visible"@""@"Với sản phẩm đồng hồ nam thời FOURRON Nam tính , các chàng trai hoàn toàn có thể hô biến nó thành món phụ kiện nổi bật cho phong cách thời trang riêng của mình và kết hợp với nhiều trang phục khác..."@""@""@"taxable"@""@"1"@""@""@"0"@"0"@""@""@""@""@"1"@""@"204000"@"116000"@"fourron"@""@""@"https://salt.tikicdn.com/cache/280x280/ts/product/32/a0/f7/49ac2a5337b2b1aa3257dec7e139b2e5.jpg"@""@""@""@""@""@""@""@""@"0"
+""@"simple"@"7844656036920"@"Đồng Hồ Cơ Nam Chính Hãng AOKULASIC AUTOMATIC Chạy Lịch Ngày Mặt Chữ Nhật Cong Đẹp Mắt - Dây Da Thật - Chống Nước Tốt - Phong Cách Lịch Lãm AOCN09"@"1"@"0"@"visible"@""@"Đồng hồ cơ nam AOKULASIC với vỏ ngoài được gia công bằng chất liệu hợp kim thép chống gỉ tạo nên vẻ sang trọng, lịch lãm cho phái mạnh
+VẬN HÀNH BỀN BỈ: với công nghệ sản xuất lắp ráp tiên tiến của..."@""@""@"taxable"@""@"1"@""@""@"0"@"0"@""@""@""@""@"1"@""@"6001000"@"999000"@"AOKULASIC"@""@""@"https://salt.tikicdn.com/cache/280x280/ts/product/82/73/4e/e5140af5af8ee1dea141d3a154354d98.jpg"@""@""@""@""@""@""@""@""@"0"
+""@"simple"@"2986375501664"@"Đồng Hồ Nam 2 Lịch Crnaira  C8899 Kim Dạng Quang Dây Thép Mành Cao Cấp_Full Box"@"1"@"0"@"visible"@""@"   Đồng Hồ Nam CRNAIRA Là món phụ kiện không thể thiếu của các bạn nam, chiếc đồng hồ giúp bạn khẳng định cá tính thời trang của chính mình.
+-        Đồng Hồ Nam CRNAIRA sở hữu thiết kế sang trọng..."@""@""@"taxable"@""@"1"@""@""@"0"@"0"@""@""@""@""@"1"@""@"345000"@"155000"@"CRNAIRA"@""@""@"https://salt.tikicdn.com/cache/280x280/ts/product/db/d0/99/81e58ab6ba321f3270c5d11d9a1b85c9.jpg"@""@""@""@""@""@""@""@""@"0"
+""@"simple"@"1949588057336"@"Đồng Hồ Hẹn Giờ 60 Phút Pomodoro Kim Loại"@"1"@"0"@"visible"@""@"Đồng Hồ Hẹn Giờ Cơ Học Pomodoro là một sản phẩm rất thú vị, có thể hẹn giờ lên đến 60 phút lại không cần phải nạp pin nhờ cơ chế xoay cơ học hoàn toàn. Đồng hồ này rất hữu ích khi bạn cần canh giờ..."@""@""@"taxable"@""@"1"@""@""@"0"@"0"@""@""@""@""@"1"@""@"113000"@"87000"@"OEM"@""@""@"https://salt.tikicdn.com/cache/280x280/ts/product/c5/7b/2e/3df0bc41c97043fb1eb53816195f9732.jpg"@""@""@""@""@""@""@""@""@"0"
+""@"simple"@"2973442350768"@"Đồng hồ nam FNGEEN 5055 lịch ngày chính hãng nam sinh viên thể thao thạch anh đồng hồ thời trang chống thấm nước xu hướng thời trang dây hợp kim thép không gỉ"@"1"@"0"@"visible"@""@"Với sản phẩm đồng hồ nam thời trang FNGEEN (Đen) Nam tính , các chàng trai hoàn toàn có thể hô biến nó thành món phụ kiện nổi bật cho phong cách thời trang riêng của mình và kết hợp với nhiều trang..."@""@""@"taxable"@""@"1"@""@""@"0"@"0"@""@""@""@""@"1"@""@"191000"@"109000"@"FNGEEN"@""@""@"https://salt.tikicdn.com/cache/280x280/ts/product/37/22/b3/6dc6a9f29a5e7d4cb9fcaee571cf9c45.jpg"@""@""@""@""@""@""@""@""@"0"
+""@"simple"@"4629630856113"@"Bộ máy đồng hồ treo tường kim trôi và 3 cây kim kèm theo ốc vít "@"1"@"0"@"visible"@""@"Sản phẩm bao gồm:
+ 1 x Máy đồng hồ kim trôi 
+3 x kim: giờ, phút, giây
+ 1 x ốc vít  
+Lưu ý 1. Các cây kim được làm bằng nhôm mỏng hoặc tấm sắt , mặc dù sản phẩm được bao bì tốt, nhưng vẫn không thể..."@""@""@"taxable"@""@"1"@""@""@"0"@"0"@""@""@""@""@"1"@""@"36000"@"59000"@"OEM"@""@""@"https://salt.tikicdn.com/cache/280x280/ts/product/25/2b/80/54e615476983a34d10f70ece02b1e95c.jpg"@""@""@""@""@""@""@""@""@"0"
+""@"simple"@"9527567868635"@"Đồng Hồ Nam Dây Thép Lưới Đen ECONOMICXI Chính Hãng Đường Kính Mặt 40mm Có lịch Ngày - Phong Cách Doanh Nhân ECNT36"@"1"@"0"@"visible"@""@"Đồng hồ nam ECONOMICXI không đơn thuần chỉ là 1 chiếc đồng hồ đó còn là 1 phụ kiện thời trang đẹp và sang trọngVới thiết kế bắt mắt cùng chất liệu vỏ dây cao cấp từ inox và mặt kính cứng tăng cường..."@""@""@"taxable"@""@"1"@""@""@"0"@"0"@""@""@""@""@"1"@""@"3600000"@"400000"@"ECONOMICXI"@""@""@"https://salt.tikicdn.com/cache/280x280/ts/product/29/af/64/b6ad3d8d2ee633fa5c858edadde2fa87.jpg"@""@""@""@""@""@""@""@""@"0"
+""@"simple"@"5456165578031"@"Đồng hồ để bàn led báo thức thông minh"@"1"@"0"@"visible"@""@"Đồng hồ báo thức điện tử vỏ gỗ cao cấp được thiết kế như một khối gỗ hình chữ nhật, với vân gỗ tự nhiên sang trọng kết hợp với số LED điện tử hiện đại, chức năng cảm biến âm thanh tự động sáng đèn..."@""@""@"taxable"@""@"1"@""@""@"0"@"0"@""@""@""@""@"1"@""@"151000"@"199000"@"OEM"@""@""@"https://salt.tikicdn.com/cache/280x280/ts/product/1b/28/57/3abe9c8309e393531c10a4529f4aec8e.jpg"@""@""@""@""@""@""@""@""@"0"
+""@"simple"@"6659319620276"@"Đồng hồ nam SAMIR hiển thị lịch ngày cao cấp – Trẻ trung – Năng động"@"1"@"0"@"visible"@""@"
+Đường kính mặt: 40mm
+Độ rộng dây: 20mm
+Loại máy: Máy QUARTZ
+
+
+
+
+
+
+
+
+"@""@""@"taxable"@""@"1"@""@""@"0"@"0"@""@""@""@""@"1"@""@"2601000"@"399000"@"SAMIR"@""@""@"https://salt.tikicdn.com/cache/280x280/ts/product/2c/df/6e/5051faccabce746df97be138af2861ee.jpg"@""@""@""@""@""@""@""@""@"0"
+""@"simple"@"2187196525376"@"Đồng Hồ Nam DIZIZID Chính Hãng Dây Thép Mành Đen Chạy Full 6 Kim Và Lịch Ngày - Thiết Kế Hiện Đại DZKX3D9"@"1"@"0"@"visible"@""@"THÔNG TIN CHI TIẾT SẢN PHẨM:
+
+Thương hiệu: DIZIZID
+Mẫu: High Fashion Design
+Dây thép không gỉ
+Đường kính mặt: 40mm
+Chiều dày mặt: 10mm
+Mặt kính: Kính khoáng chống trầy xước
+Màu mặt: đen phối kim..."@""@""@"taxable"@""@"1"@""@""@"0"@"0"@""@""@""@""@"1"@""@"5199000"@"800000"@"DIZIZID"@""@""@"https://salt.tikicdn.com/cache/280x280/ts/product/ee/8e/a0/f377e037d9e62751a068f83dafc6e24e.jpg"@""@""@""@""@""@""@""@""@"0"
+""@"simple"@"7913642685524"@"Đồng Hồ Treo Tường Dán Tường 3D Chính Hãng Shouse loại lớn bằng Xốp và Meka cao cấp trang trí nghệ thuật đẹp  treo phòng khách, phòng ngủ"@"1"@"0"@"visible"@""@"Đồng hồ dán tường 3D loại lớn phiên bản cao cấp SHOUSE đường kính sau khi lắp đồng hồ: 80-120cm (điều chỉnh tùy theo không gian lắp đặp nhà bạn)
+Khác biệt so với hàng bình thường: - Các chữ số to và..."@""@""@"taxable"@""@"1"@""@""@"0"@"0"@""@""@""@""@"1"@""@"77000"@"133000"@"Shouse"@""@""@"https://salt.tikicdn.com/cache/280x280/ts/product/5c/7e/38/905e10caeb2015c32955670245d5540d.jpg"@""@""@""@""@""@""@""@""@"0"
+""@"simple"@"7130378788811"@"máy đồng hồ treo tường kim trôi ja-pan"@"1"@"0"@"visible"@""@"Máy đồng hồ treo tường kim trôi
+Dùng để thay thế cho máy đồng hồ bị hỏngMáy kim trôi chạy êm không phát ra tiếng ồn cho cả gia đình giấc ngủ ngon
+Chất liệu cao cấpAn toàn khi sử dụng
+Chất liệu vỏ..."@""@""@"taxable"@""@"1"@""@""@"0"@"0"@""@""@""@""@"1"@""@"51000"@"59000"@"OEM"@""@""@"https://salt.tikicdn.com/cache/280x280/ts/product/fa/9e/db/1b8c471826d3bfec31dcfc0a55cc9c55.jpg"@""@""@""@""@""@""@""@""@"0"
+""@"simple"@"2711747053555"@" Giá FLASH SALE  Đồng Hồ Nam Cao Cấp Chính Hãng Pagini Pa5599 Dây Thép Không Gỉ - Chống Nước 3ATM - Hiển Thị 2 Lịch Đẳng Cấp"@"1"@"0"@"visible"@""@"Đồng hồ nam Pagini tạo nên phong cách sang trọng, lịch lãmĐồng hồ nam Pagini được sử dụng công nghệ sản xuất tiên tiến, chất lượng hàng đầuĐồng hồ nam Pagini chống nước 3ATMĐồng hồ nam Pagini hiển..."@""@""@"taxable"@""@"1"@""@""@"0"@"0"@""@""@""@""@"1"@""@"3550000"@"450000"@"PAGINI"@""@""@"https://salt.tikicdn.com/cache/280x280/ts/product/42/e9/00/378acbbf5d6fd3294db698078d36fad0.jpg"@""@""@""@""@""@""@""@""@"0"
+""@"simple"@"6355421792237"@"Đồng hồ đeo tay nam nữ JIS unisex thời trang DH66"@"1"@"0"@"visible"@""@"MÔ TẢ SẢN PHẨM Chất liệu: Da PU cao cấp, chất da mềm mịn, phong cách nữ tính, trẻ trung.Màu sắc có 2 phân loại: DH66 Mặt Trắng, DH66 Mặt ĐenStyle: KoreaTình trạng : mớiĐồng hồ : nam nữKích thước mặt..."@""@""@"taxable"@""@"1"@""@""@"0"@"0"@""@""@""@""@"1"@""@"94302"@"53698"@"OEM"@""@""@"https://salt.tikicdn.com/cache/280x280/ts/product/dc/92/58/66d6e5f1f4eff4e4f5f391baba872966.jpg"@""@""@""@""@""@""@""@""@"0"
+""@"simple"@"8757256356892"@"Đồng Hồ Nam Đẳng Cấp Chính Hãng PAGINI - PA5533W Dây Thép Không Gỉ - Mặt Kính Cứng Cao Cấp Chống Xước, Chống Va Đập - Chống Nước 3ATM - Phong Cách , Sang Trọng , Lịch Lãm"@"1"@"0"@"visible"@""@"
+Đồng hồ nam PAGINI được sản xuất trên công nghệ tiên tiến, hiện đại nhất hiện nay, mang lại trải nghiệm tuyệt vời cho người dùng
+Dây đeo bằng thép cao cấp không gỉ, bạn sẽ thực sự thoải mái khi sử..."@""@""@"taxable"@""@"1"@""@""@"0"@"0"@""@""@""@""@"1"@""@"2101000"@"399000"@"PAGINI"@""@""@"https://salt.tikicdn.com/cache/280x280/ts/product/ef/af/ee/2806cc5b6530ab0f682198a58869222a.jpg"@""@""@""@""@""@""@""@""@"0"
+""@"simple"@"9035895804304"@"Đồng Hồ Nam PAGINI USA Đẳng Cấp Quân Đội -  PA008025 "@"1"@"0"@"visible"@""@"Đồng hồ PAGINI USA là 1 thương hiệu tới từ USA mang phong cách thể thao cực ngầu, độ chính xác rất cao .Đồng hồ SBAO USA trải qua quy trình kiểm soát QC chính hãng nghiêm ngặt trước khi bán ra thị..."@""@""@"taxable"@""@"1"@""@""@"0"@"0"@""@""@""@""@"1"@""@"170000"@"159000"@"PAGINI"@""@""@"https://salt.tikicdn.com/cache/280x280/ts/product/11/7a/ef/d8400a47038fc2fa9cabe1832c8203e9.jpg"@""@""@""@""@""@""@""@""@"0"
+""@"simple"@"9186473627040"@"Đồng hồ nam HALEI 564 mặt vuông thời trang cao cấp"@"1"@"0"@"visible"@""@"GIỚI THIỆU SẢN PHẨM️ Là sự kết hợp hài hòa giữa kiểu dáng thời trang và chất lượng, những chiếc đồng hồ đến từ thương hiệu HALEI xứng đáng là lựa chọn hàng đầu của phái mạnh. Với thiết kế tinh tế,..."@""@""@"taxable"@""@"1"@""@""@"0"@"0"@""@""@""@""@"1"@""@"739000"@"250000"@"HALEI"@""@""@"https://salt.tikicdn.com/cache/280x280/ts/product/e8/ab/53/8a17ebe7b526a631d8f861fc7e7c2b9d.jpg"@""@""@""@""@""@""@""@""@"0"
+""@"simple"@"8014273891472"@"Đồng hồ báo thức cảm biến phát sáng trong đêm"@"1"@"0"@"visible"@""@"Đồng hồ báo thức cảm biến phát sáng trong đêm M1
+Đồng hồ điện tử báo thức để bàn cảm biến phát sáng trong đêm là món quà độc đáo, cá tính dành tặng cho những người thân yêu và bạn bè. Một chiếc đồng..."@""@""@"taxable"@""@"1"@""@""@"0"@"0"@""@""@""@""@"1"@""@"160000"@"90000"@"OEM"@""@""@"https://salt.tikicdn.com/cache/280x280/ts/product/7b/5b/8a/96efadb5e72b6429f90999ad94ddbda6.jpg"@""@""@""@""@""@""@""@""@"0"
+""@"simple"@"2089552044425"@"Đồng Hồ Nam Fourron Lịch Ngày chính hãng nam sinh viên thể thao thạch anh đồng hồ thời trang chống thấm nước xu hướng thời trang dây hợp kim thép không gỉ"@"1"@"0"@"visible"@""@"-              Đồng Hồ Nam FOURRON  Là món phụ kiện không thể thiếu của các bạn nam, chiếc đồng hồ giúp bạn khẳng định cá tính thời trang của chính mình.
+-              Đồng Hồ Nam FOURRON sở hữu..."@""@""@"taxable"@""@"1"@""@""@"0"@"0"@""@""@""@""@"1"@""@"211000"@"109000"@"fourron"@""@""@"https://salt.tikicdn.com/cache/280x280/ts/product/c3/eb/0b/6b4e9b0ce344595e79f17767a0c83cc7.jpg"@""@""@""@""@""@""@""@""@"0"
+""@"simple"@"3308282688207"@"Đồng Hồ Nam Cao Cấp GF Dây Thép Lưới Đen Có Lịch Ngày Mặt Xanh Dương Thời Thượng GFB89"@"1"@"0"@"visible"@""@"GF là một trong những thương hiệu đồng hồ thời trang nổi bật với nhiều thiết kế Hottrend và trẻ trung. Với đội ngũ thiết kế sáng tạo và chuyên nghiệp, các mẫu đồng hồ của GF có thể phối đồi đa dạng,..."@""@""@"taxable"@""@"1"@""@""@"0"@"0"@""@""@""@""@"1"@""@"3600000"@"400000"@"GF"@""@""@"https://salt.tikicdn.com/cache/280x280/ts/product/2d/cc/6a/eb8ee8f8118cf407ddc04aed6a746500.jpg"@""@""@""@""@""@""@""@""@"0"
+""@"simple"@"2813932624882"@"Đồng Hồ Nam Cao Cấp, Đồng Hồ Nam Chính Hãng ECONOMICXI Dây Thép Lụa Đen, Có Lịch Ngày Mặt Mỏng Thời Thượng - Thiết Kế Hiện Đại Và Nam Tính ECN3N"@"1"@"0"@"visible"@""@"ĐỒNG HỒ ECONOMICXI NAM TÍNH: Những chiếc đồng hồ ECONOMICXI làm tôn lên vẻ đẹp hiện đại mang lại sự cuốn hút mạnh mẽ cho nam giới từ cái nhìn đầu tiên. Đàn ông là phải thế, dù bạn không cao nhưng..."@""@""@"taxable"@""@"1"@""@""@"0"@"0"@""@""@""@""@"1"@""@"3600000"@"400000"@"ECONOMICXI"@""@""@"https://salt.tikicdn.com/cache/280x280/ts/product/37/72/2d/6b8d1a81adf1e50d864eaae70c902894.jpg"@""@""@""@""@""@""@""@""@"0"
+""@"simple"@"7474198326526"@"Đồng Hồ Nam FNGEEN FG0541 doanh nhân 2020 Lịch ngày sang trọng Dây thép không gỉ cao cấp"@"1"@"0"@"visible"@""@"
+Với sản phẩm đồng hồ nam thời trang FNGEEN (Đen) Nam tính , các chàng trai hoàn toàn có thể hô biến nó thành món phụ kiện nổi bật cho phong cách thời trang riêng của mình và kết hợp với nhiều trang..."@""@""@"taxable"@""@"1"@""@""@"0"@"0"@""@""@""@""@"1"@""@"391000"@"109000"@"FNGEEN"@""@""@"https://salt.tikicdn.com/cache/280x280/ts/product/b8/d5/ac/6b33aa021943288ab6abd48e4206f3f9.jpg"@""@""@""@""@""@""@""@""@"0"
